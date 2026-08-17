@@ -1,0 +1,6 @@
+# Ignore vendor dependencies 
+/vendor/ 
+composer.lock 
+.DS_Store 
+Thumbs.db 
+*.log 
